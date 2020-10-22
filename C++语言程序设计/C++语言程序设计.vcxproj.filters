@@ -5,4 +5,9 @@
       <UniqueIdentifier>{675eeedb-e899-47f1-8456-ada4976ffc5e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="6_11函数指针.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
