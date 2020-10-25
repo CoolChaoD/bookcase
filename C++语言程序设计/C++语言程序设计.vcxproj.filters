@@ -4,10 +4,31 @@
     <Filter Include="第六章">
       <UniqueIdentifier>{675eeedb-e899-47f1-8456-ada4976ffc5e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="项目">
+      <UniqueIdentifier>{91c48cc2-effc-4e19-842f-22d5439b9124}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6_11函数指针.cpp">
       <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="测试类的大小.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="多态.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="继承同名成员处理.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="深拷贝与浅拷贝.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="钻石继承.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="calculator.cpp">
+      <Filter>项目</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
