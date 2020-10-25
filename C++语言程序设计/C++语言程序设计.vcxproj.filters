@@ -4,10 +4,28 @@
     <Filter Include="第六章">
       <UniqueIdentifier>{675eeedb-e899-47f1-8456-ada4976ffc5e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="第七章 继承与派生">
+      <UniqueIdentifier>{2a913ede-3714-4ec9-b9c3-4184645cc1be}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6_11函数指针.cpp">
       <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="深拷贝与浅拷贝.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="测试类的大小.cpp">
+      <Filter>第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="继承同名成员处理.cpp">
+      <Filter>第七章 继承与派生</Filter>
+    </ClCompile>
+    <ClCompile Include="钻石继承.cpp">
+      <Filter>第七章 继承与派生</Filter>
+    </ClCompile>
+    <ClCompile Include="多态.cpp">
+      <Filter>第七章 继承与派生</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
