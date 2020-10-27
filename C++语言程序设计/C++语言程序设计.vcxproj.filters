@@ -39,5 +39,8 @@
     <ClCompile Include="重载+.cpp">
       <Filter>运算符的重载</Filter>
     </ClCompile>
+    <ClCompile Include="左移运算符的重载.cpp">
+      <Filter>运算符的重载</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
