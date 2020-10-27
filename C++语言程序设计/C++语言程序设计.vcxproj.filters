@@ -7,6 +7,9 @@
     <Filter Include="项目">
       <UniqueIdentifier>{91c48cc2-effc-4e19-842f-22d5439b9124}</UniqueIdentifier>
     </Filter>
+    <Filter Include="运算符的重载">
+      <UniqueIdentifier>{2fede04b-826b-4ea1-b555-f898d451e84d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6_11函数指针.cpp">
