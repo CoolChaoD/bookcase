@@ -36,5 +36,8 @@
     <ClCompile Include="电脑组装案例.cpp">
       <Filter>项目</Filter>
     </ClCompile>
+    <ClCompile Include="重载+.cpp">
+      <Filter>运算符的重载</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
