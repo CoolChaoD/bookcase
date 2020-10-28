@@ -10,6 +10,9 @@
     <Filter Include="运算符的重载">
       <UniqueIdentifier>{2fede04b-826b-4ea1-b555-f898d451e84d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="运算符的重载\练习运算符的重载">
+      <UniqueIdentifier>{98f3556b-63db-435c-9662-3570340bfd92}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6_11函数指针.cpp">
@@ -36,8 +39,14 @@
     <ClCompile Include="电脑组装案例.cpp">
       <Filter>项目</Filter>
     </ClCompile>
-    <ClCompile Include="重载+.cpp">
+    <ClCompile Include="+重载.cpp">
       <Filter>运算符的重载</Filter>
+    </ClCompile>
+    <ClCompile Include="左移运算符重载.cpp">
+      <Filter>运算符的重载</Filter>
+    </ClCompile>
+    <ClCompile Include="1_加号运算符的重载.cpp">
+      <Filter>运算符的重载\练习运算符的重载</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

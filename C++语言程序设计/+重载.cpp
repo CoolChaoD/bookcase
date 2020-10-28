@@ -6,6 +6,7 @@ class Person {
 public:
 	int m_A;
 	int m_B;
+
 	//Person operator+(Person& p) {
 
 	//	Person temp;
