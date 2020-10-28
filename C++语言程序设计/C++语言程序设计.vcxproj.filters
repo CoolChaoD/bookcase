@@ -45,11 +45,17 @@
     <ClCompile Include="1_加号运算符的重载.cpp">
       <Filter>运算符的重载\练习</Filter>
     </ClCompile>
-    <ClCompile Include="左移运算符的重载.cpp">
-      <Filter>运算符的重载</Filter>
-    </ClCompile>
     <ClCompile Include="1_左移运算符的重载.cpp">
       <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="03递增运算符的重载.cpp">
+      <Filter>运算符的重载</Filter>
+    </ClCompile>
+    <ClCompile Include="02左移运算符的重载.cpp">
+      <Filter>运算符的重载</Filter>
+    </ClCompile>
+    <ClCompile Include="04递减运算符的重载.cpp">
+      <Filter>运算符的重载</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
