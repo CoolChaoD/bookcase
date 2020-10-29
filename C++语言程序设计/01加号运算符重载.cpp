@@ -17,6 +17,7 @@ public:
 };
 
 
+
 //全局函数重载
 Person operator+(Person& p1, Person& p2) {
 
@@ -44,5 +45,5 @@ int main() {
 
 	test01();
 	return 1;
-	//test
+
 }
