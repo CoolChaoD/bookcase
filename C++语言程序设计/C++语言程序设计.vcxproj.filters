@@ -13,6 +13,9 @@
     <Filter Include="运算符的重载\练习">
       <UniqueIdentifier>{3977859c-f7c1-4cef-b60e-a9563b814e80}</UniqueIdentifier>
     </Filter>
+    <Filter Include="运算符的重载\模板">
+      <UniqueIdentifier>{39572bae-f05b-4ba0-91a9-52cc6b8d8407}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6_11函数指针.cpp">
@@ -45,20 +48,23 @@
     <ClCompile Include="1_左移运算符的重载.cpp">
       <Filter>运算符的重载\练习</Filter>
     </ClCompile>
-    <ClCompile Include="03递增运算符的重载.cpp">
-      <Filter>运算符的重载</Filter>
-    </ClCompile>
-    <ClCompile Include="04递减运算符的重载.cpp">
-      <Filter>运算符的重载</Filter>
-    </ClCompile>
-    <ClCompile Include="02左移运算符的重载.cpp">
+    <ClCompile Include="1_练习递增运算符的重载.cpp">
       <Filter>运算符的重载\练习</Filter>
     </ClCompile>
     <ClCompile Include="02练习加号运算符的重载.cpp">
-      <Filter>运算符的重载</Filter>
+      <Filter>运算符的重载\练习</Filter>
     </ClCompile>
     <ClCompile Include="01加号运算符重载.cpp">
-      <Filter>运算符的重载</Filter>
+      <Filter>运算符的重载\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="02左移运算符的重载.cpp">
+      <Filter>运算符的重载\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="03递增运算符的重载.cpp">
+      <Filter>运算符的重载\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="04递减运算符的重载.cpp">
+      <Filter>运算符的重载\模板</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

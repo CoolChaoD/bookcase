@@ -21,7 +21,6 @@ public:
 		MyIntenger temp = *this;
 		this->m_Num++;
 		return temp;
-
 	}
 
 private:
