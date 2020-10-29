@@ -39,9 +39,6 @@
     <ClCompile Include="电脑组装案例.cpp">
       <Filter>项目</Filter>
     </ClCompile>
-    <ClCompile Include="重载+.cpp">
-      <Filter>运算符的重载</Filter>
-    </ClCompile>
     <ClCompile Include="1_加号运算符的重载.cpp">
       <Filter>运算符的重载\练习</Filter>
     </ClCompile>
@@ -51,10 +48,16 @@
     <ClCompile Include="03递增运算符的重载.cpp">
       <Filter>运算符的重载</Filter>
     </ClCompile>
-    <ClCompile Include="02左移运算符的重载.cpp">
+    <ClCompile Include="04递减运算符的重载.cpp">
       <Filter>运算符的重载</Filter>
     </ClCompile>
-    <ClCompile Include="04递减运算符的重载.cpp">
+    <ClCompile Include="02左移运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="02练习加号运算符的重载.cpp">
+      <Filter>运算符的重载</Filter>
+    </ClCompile>
+    <ClCompile Include="01加号运算符重载.cpp">
       <Filter>运算符的重载</Filter>
     </ClCompile>
   </ItemGroup>
