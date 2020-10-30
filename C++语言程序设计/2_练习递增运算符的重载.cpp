@@ -26,6 +26,7 @@ public:
 private:
 	int m_Num;
 };
+//test
 
 
 //ÖØÔØ×óÒÆÔËËã·û
