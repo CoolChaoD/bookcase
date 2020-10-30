@@ -51,9 +51,6 @@
     <ClCompile Include="1_练习递增运算符的重载.cpp">
       <Filter>运算符的重载\练习</Filter>
     </ClCompile>
-    <ClCompile Include="02练习加号运算符的重载.cpp">
-      <Filter>运算符的重载\练习</Filter>
-    </ClCompile>
     <ClCompile Include="01加号运算符重载.cpp">
       <Filter>运算符的重载\模板</Filter>
     </ClCompile>
@@ -65,6 +62,12 @@
     </ClCompile>
     <ClCompile Include="04递减运算符的重载.cpp">
       <Filter>运算符的重载\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="2_练习加号运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2_练习递增运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
