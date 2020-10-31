@@ -72,5 +72,8 @@
     <ClCompile Include="05等号运算符的重载.cpp">
       <Filter>运算符的重载\模板</Filter>
     </ClCompile>
+    <ClCompile Include="1_练习赋值运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
