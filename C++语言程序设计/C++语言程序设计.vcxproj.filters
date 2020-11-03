@@ -16,6 +16,9 @@
     <Filter Include="运算符的重载\模板">
       <UniqueIdentifier>{39572bae-f05b-4ba0-91a9-52cc6b8d8407}</UniqueIdentifier>
     </Filter>
+    <Filter Include="泛型编程">
+      <UniqueIdentifier>{4a529103-6772-4f8c-9dac-4ee925321772}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6_11函数指针.cpp">
@@ -80,6 +83,9 @@
     </ClCompile>
     <ClCompile Include="07函数调用运算符的重载.cpp">
       <Filter>运算符的重载\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="01函数模板.cpp">
+      <Filter>泛型编程</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
