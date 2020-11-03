@@ -27,8 +27,8 @@ void test01() {
 }
 
 void test02() {
-	Myadd myadd;
 
+	Myadd myadd;
 	int res = myadd(100, 12);
 	cout << res << endl;
 	//匿名函数对象
