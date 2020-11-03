@@ -21,7 +21,7 @@ void test01() {
 	cout << "a=" << a << endl;
 	cout << "b=" << b << endl;
 
-	//2.自动类型推导
+	//2.自动类型推导，参数的类型必须一致才可以
 	double c = 1.1;
 	double d = 2.2;
 	mySwap(c, d);

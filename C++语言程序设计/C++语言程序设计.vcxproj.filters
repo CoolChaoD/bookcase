@@ -87,5 +87,8 @@
     <ClCompile Include="01函数模板.cpp">
       <Filter>泛型编程</Filter>
     </ClCompile>
+    <ClCompile Include="02函数模板案例封装一个排序函数.cpp">
+      <Filter>泛型编程</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
