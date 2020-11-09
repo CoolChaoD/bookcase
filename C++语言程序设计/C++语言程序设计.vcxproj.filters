@@ -19,26 +19,14 @@
     <Filter Include="泛型编程">
       <UniqueIdentifier>{4a529103-6772-4f8c-9dac-4ee925321772}</UniqueIdentifier>
     </Filter>
+    <Filter Include="第六章\练习">
+      <UniqueIdentifier>{d8984fc9-e0b3-4f5b-9459-476f8d7504c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="第六章\模板">
+      <UniqueIdentifier>{e1e11246-deb5-4556-97b3-ff6eee0283ae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="6_11函数指针.cpp">
-      <Filter>第六章</Filter>
-    </ClCompile>
-    <ClCompile Include="测试类的大小.cpp">
-      <Filter>第六章</Filter>
-    </ClCompile>
-    <ClCompile Include="多态.cpp">
-      <Filter>第六章</Filter>
-    </ClCompile>
-    <ClCompile Include="继承同名成员处理.cpp">
-      <Filter>第六章</Filter>
-    </ClCompile>
-    <ClCompile Include="深拷贝与浅拷贝.cpp">
-      <Filter>第六章</Filter>
-    </ClCompile>
-    <ClCompile Include="钻石继承.cpp">
-      <Filter>第六章</Filter>
-    </ClCompile>
     <ClCompile Include="calculator.cpp">
       <Filter>项目</Filter>
     </ClCompile>
@@ -89,6 +77,45 @@
     </ClCompile>
     <ClCompile Include="02函数模板案例封装一个排序函数.cpp">
       <Filter>泛型编程</Filter>
+    </ClCompile>
+    <ClCompile Include="3_练习加号运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="3_练习递增运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="03类模板中成员函数的创建时机.cpp">
+      <Filter>泛型编程</Filter>
+    </ClCompile>
+    <ClCompile Include="1_赋值运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="1_练习仿函数.cpp">
+      <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6_11函数指针.cpp">
+      <Filter>第六章\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="测试类的大小.cpp">
+      <Filter>第六章\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="多态.cpp">
+      <Filter>第六章\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="继承同名成员处理.cpp">
+      <Filter>第六章\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="深拷贝与浅拷贝.cpp">
+      <Filter>第六章\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="钻石继承.cpp">
+      <Filter>第六章\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="01_深浅拷贝.cpp">
+      <Filter>第六章\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2_练习赋值运算符的重载.cpp">
+      <Filter>运算符的重载\练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
