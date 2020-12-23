@@ -25,6 +25,15 @@
     <Filter Include="第六章\模板">
       <UniqueIdentifier>{e1e11246-deb5-4556-97b3-ff6eee0283ae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{45cdd3ec-e9b9-4ddd-9a9c-4d6637308853}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL\string">
+      <UniqueIdentifier>{995651f9-f6c9-435a-862d-23d8323314b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="深度探索C++对象模型">
+      <UniqueIdentifier>{7f3a21b6-58b6-4922-b7a3-48c9b8c30e55}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="calculator.cpp">
@@ -116,6 +125,12 @@
     </ClCompile>
     <ClCompile Include="2_练习赋值运算符的重载.cpp">
       <Filter>运算符的重载\练习</Filter>
+    </ClCompile>
+    <ClCompile Include="01_string容器的构造函数cpp.cpp">
+      <Filter>STL\string</Filter>
+    </ClCompile>
+    <ClCompile Include="01_虚拟继承内存原理.cpp">
+      <Filter>深度探索C++对象模型</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
