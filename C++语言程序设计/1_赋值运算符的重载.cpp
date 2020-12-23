@@ -40,6 +40,7 @@ private:
 	int* m_Age;
 };
 
+
 ostream& operator<<(ostream& out, Person& p) {
 	out << "ÄêÁäÊÇ£º" << *p.m_Age << endl;
 	return out;
